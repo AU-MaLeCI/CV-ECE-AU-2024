@@ -2,7 +2,7 @@
 
 ## CNN-based classification:
 
-### Simple CNN (cifar-10)
+### Classification CNN cifar-10
 
 Github link: https://github.com/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_3/Classification_CNN_cifar10.ipynb
 
