@@ -13,3 +13,35 @@ Google Colab link: https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-
 Github link: https://github.com/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_3/image_classification_efficientnet_fine_tuning.ipynb
 
 Google Colab link: https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_3/image_classification_efficientnet_fine_tuning.ipynb
+
+## Clustering-based image segmentation
+
+###
+
+## SLIC-based image segmentation
+
+### 
+
+## Semantic segmentation
+
+### 
+
+## Instance segmentation
+
+### 
+
+## Panoptic segmentation
+
+### 
+
+## Supervised depth estimation
+
+### 
+
+## Unsupervised depth estimation
+
+### 
+
+## Saliency estimation
+
+### 
