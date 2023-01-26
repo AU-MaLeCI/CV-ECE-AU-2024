@@ -20,7 +20,7 @@
 
 ## Semantic segmentation
 
-- [ ] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_3/semantic-segmentation-is-easy-with-pytorch.ipynb)
+- [ ] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_3/semantic-segmentation.ipynb)
 
 ## Instance segmentation
 
