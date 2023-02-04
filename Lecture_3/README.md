@@ -36,7 +36,7 @@
 
 ## Unsupervised depth estimation
 
-- [ ] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_3/Monocular_depth_estimation.ipynb)
+- [ ] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_3/Monocular_depth_estimat.ipynb)
 
 ## Saliency estimation
 
