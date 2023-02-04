@@ -32,7 +32,7 @@
 
 ## Supervised depth estimation
 
-- [ ] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_3/GLPN_inference_(depth_estimation).ipynb)
+- [x] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_3/GLPN_inference_(depth_estimation).ipynb)
 
 ## Unsupervised depth estimation
 
