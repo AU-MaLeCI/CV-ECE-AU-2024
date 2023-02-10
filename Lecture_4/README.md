@@ -22,7 +22,7 @@
 
 ## CornerNet/CenterNet
 
-- [ ] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_4/centernet_starterkit.ipynb)
+- [x] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_4/centernet_starterkit.ipynb)
 
 ## Single object tracking
 
