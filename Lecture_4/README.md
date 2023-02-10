@@ -2,7 +2,7 @@
 
 ## Viola-Jones face detection
 
-- [ ] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_4/viola-jones.ipynb)
+- [x] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_4/4_Cascade_classification.ipynb)
 
 ## Overfeat
 
