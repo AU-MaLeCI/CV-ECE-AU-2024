@@ -4,10 +4,6 @@
 
 - [x] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_4/4_Cascade_classification.ipynb)
 
-## Overfeat
-
-- [ ] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_4/.ipynb)
-
 ## Two-stage detector
 
 - [x] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_4/object-detection.ipynb)
@@ -26,4 +22,4 @@
 
 ## Single object tracking
 
-- [ ] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_4/.ipynb)
+- [x] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_4/SiamMask.ipynb)
