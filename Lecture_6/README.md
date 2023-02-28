@@ -19,3 +19,4 @@
 ## 5_avcc
 
 - [x] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AU-MaLeCI/CV-ECE-AU-2023/blob/main/Lecture_6/5_avcc.ipynb)
+
